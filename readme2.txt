@@ -1,4 +1,4 @@
 readme2 file
 now I change my txt
 Git tracks changes.
-a aguly 
+now is where
